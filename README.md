@@ -4,6 +4,7 @@ A Tool Script by EPLOG
 | Linux | macOS | Windows |
 | :---- | :------ | :---- |
 [ ![Linux build status][1]][2] | [![macOS build status][3]][4] | [![Windows build status][5]][6] |
+
 [1]: https://travis-ci.org/spdx/tools-python.svg?branch=master
 [2]: https://travis-ci.org/spdx/tools-python
 [3]: https://circleci.com/gh/spdx/tools-python/tree/master.svg?style=shield&circle-token=36cca2dfa3639886fc34e22d92495a6773bdae6d
