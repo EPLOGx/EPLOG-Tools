@@ -8,4 +8,7 @@ Here is a [SAFE PROOF](https://www.youtube.com/watch?v=uLKG4QSaq-s) that this Sc
 # Other Projects
 [Le Bot](https://lebot.eplogx.de)
 
+# Socials
+
 [My Website](https://eplogx.de)
+Discord: EPLOG#8888
