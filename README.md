@@ -1,6 +1,9 @@
 # EPLOG-Tools
 A Tool Script by EPLOG
 
+| Linux | macOS | Windows |
+| :---- | :------ | :---- |
+[ ![Linux build status][1]][2] | [![macOS build status][3]][4] | [![Windows build status][5]][6] |
 
 This file is safe, but some [antivirus programs](https://www.virustotal.com/gui/file-analysis/YjAyMDdjODVjMDU5YmQ4NmJkOWM1YzYwNzdjN2E3MGE6MTY0NTM2OTkwNA==) detect it as a virus :c
 
