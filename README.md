@@ -18,7 +18,7 @@ Here is a [SAFE PROOF](https://www.youtube.com/watch?v=uLKG4QSaq-s) that this Sc
 
 # License
 
-EPLOG-Tools is licensed under the [CC-By 3.0 License]().
+EPLOG-Tools is licensed under the [MIT License](https://github.com/EPLOGx/EPLOG-Tools/blob/3.0/LICENSE).
 
 # Other Projects
 [Le Bot](https://lebot.eplogx.de)
