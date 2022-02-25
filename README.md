@@ -16,6 +16,10 @@ Here is a [SAFE PROOF](https://www.youtube.com/watch?v=uLKG4QSaq-s) that this Sc
 * [Subprocess](https://docs.python.org/3/library/subprocess.html)
 * [Pillow](https://pypi.org/project/Pillow/)
 
+# License
+
+EPLOG-Tools is licensed under the [CC-By 3.0 License]().
+
 # Other Projects
 [Le Bot](https://lebot.eplogx.de)
 
