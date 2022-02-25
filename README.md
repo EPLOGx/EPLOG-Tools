@@ -7,13 +7,21 @@ Here is a [SAFE PROOF](https://www.youtube.com/watch?v=uLKG4QSaq-s) that this Sc
 
 # Sources Modules
 [OS](https://docs.python.org/3/library/os.html)
+
 [Secrets](https://docs.python.org/3/library/secrets.html)
+
 [Time](https://docs.python.org/3/library/time.html)
+
 [Colorama](https://pypi.org/project/colorama/)
+
 [discord_webhook](https://pypi.org/project/discord-webhook/)
+
 [clipboard](https://pypi.org/project/clipboard/)
+
 [qrcode](https://pypi.org/project/qrcode/)
+
 [subprocess](https://docs.python.org/3/library/subprocess.html)
+
 [Pillow](https://pypi.org/project/Pillow/)
 
 # Other Projects
