@@ -15,6 +15,7 @@ Here is a [SAFE PROOF](https://www.youtube.com/watch?v=uLKG4QSaq-s) that this Sc
 * [QRCode](https://pypi.org/project/qrcode/)
 * [Subprocess](https://docs.python.org/3/library/subprocess.html)
 * [Pillow](https://pypi.org/project/Pillow/)
+* [WMI](https://pypi.org/project/WMI/)
 
 # License
 
