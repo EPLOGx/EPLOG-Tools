@@ -26,5 +26,5 @@ EPLOG-Tools is licensed under the [MIT License](https://github.com/EPLOGx/EPLOG-
 
 # Socials
 
-[My Website](https://eplogx.de)
+[My Website](https://eplogx.de)<br>
 [Discord](https://discordapp.com/users/507911095734763521)
